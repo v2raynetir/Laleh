@@ -1,12 +1,3 @@
-{
- "outbounds": [
-  {
-   "type": "ssh",
-   "tag": "Laleh VIP",
-   "server": "68.183.78.54",
-   "server_port": 22,
-   "user": "lionssh_laleh",
-   "password": "laleh1403"
-  }
- ]
-}
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIkxhbGVoIC0gMSIsDQogICJhZGQiOiAiMjA5LjEzNS4xNzEuMjM4IiwNCiAgInBvcnQiOiAiMTAwMDAiLA0KICAiaWQiOiAiZGQyMzdlMGEtZTcyYS0xMWVmLWFlMjctN2ZmODZkZjFiNzFjIiwNCiAgImFpZCI6ICIwIiwNCiAgInNjeSI6ICJhdXRvIiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICIiLA0KICAicGF0aCI6ICIvdnBuamFudGl0IiwNCiAgInRscyI6ICIiLA0KICAic25pIjogIiIsDQogICJhbHBuIjogIiIsDQogICJmcCI6ICIiDQp9
+
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIkxhbGVoIC0gMiIsDQogICJhZGQiOiAiNTEuNzUuNzQuNjEiLA0KICAicG9ydCI6ICIxMDAwMCIsDQogICJpZCI6ICJkZDIzN2UwYS1lNzJhLTExZWYtYWUyNy03ZmY4NmRmMWI3MWMiLA0KICAiYWlkIjogIjAiLA0KICAic2N5IjogImF1dG8iLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogIiIsDQogICJwYXRoIjogIi92cG5qYW50aXQiLA0KICAidGxzIjogIiIsDQogICJzbmkiOiAiIiwNCiAgImFscG4iOiAiIiwNCiAgImZwIjogIiINCn0=
