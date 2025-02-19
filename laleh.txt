@@ -1,8 +1,5 @@
-vless://920140ae-ec5e-11ef-addc-2b181fdebb90@45.129.185.111:10004?encryption=none&security=none&type=ws&path=%2Fvpnjantit#Laleh1%20%7C%20%40V2RAYNETIR
+vless://2125752b-a0a4-4d8b-bb1b-0260c84515aa@thro.asp1.ir:1598?encryption=none&security=reality&sni=tgju.org&fp=chrome&pbk=GGsieU5yiXWsMeO0StA4mTO2s8OLLvt0hUivZJkJG2k&sid=0b886008af8942c3&type=tcp&headerType=none#Laleh%201%20%7C%20V2RAYNETIR
 
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIkxhbGVoIDIgfCBAVjJSQVlORVRJUiIsDQogICJhZGQiOiAiODkuMjE4LjE1LjkwIiwNCiAgInBvcnQiOiAiMTAwMDAiLA0KICAiaWQiOiAiOTUyMzI4MGEtZWM1Zi0xMWVmLWJlZGUtMzcwZTM1Yzk1Y2E0IiwNCiAgImFpZCI6ICIwIiwNCiAgInNjeSI6ICJhdXRvIiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICIiLA0KICAicGF0aCI6ICIvdnBuamFudGl0IiwNCiAgInRscyI6ICIiLA0KICAic25pIjogIiIsDQogICJhbHBuIjogIiIsDQogICJmcCI6ICIiDQp9
+vless://2125752b-a0a4-4d8b-bb1b-0260c84515aa@autoz.asp1.ir:8686?encryption=none&security=none&type=tcp&headerType=http&host=archlinux.org#Laleh%202%20%7C%20V2RAYNETIR
 
-
-vless://2125752b-a0a4-4d8b-bb1b-0260c84515aa@151.101.194.133:443?encryption=none&security=tls&sni=mio.splashthat.com.&fp=firefox&type=ws&host=Nazan.com&path=%2FHamrahVPN%3Fed%3D8880#Laleh%203%20%7C%20%40V2RAYNETIR
-
-vless://77430822-ec60-11ef-818b-8746bd1bc644@209.135.171.238:10004?encryption=none&security=none&type=ws&path=%2Fvpnjantit#Laleh%204%20%7C%20%40V2RAYNETIR
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIkxhbGVoIDMgfCBWMlJBWU5FVElSIiwNCiAgImFkZCI6ICIyMDkuMTM1LjE3MS4yMzgiLA0KICAicG9ydCI6ICIxMDAwMCIsDQogICJpZCI6ICI4NTBiNDYyYy1lZWQ2LTExZWYtYjBlYi0wYmVhY2RjYjFiYjUiLA0KICAiYWlkIjogIjAiLA0KICAic2N5IjogImF1dG8iLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogIiIsDQogICJwYXRoIjogIi92cG5qYW50aXQiLA0KICAidGxzIjogIiIsDQogICJzbmkiOiAiIiwNCiAgImFscG4iOiAiIiwNCiAgImZwIjogIiINCn0=
